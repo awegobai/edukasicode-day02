@@ -1,0 +1,18 @@
+*{
+    background: #f55106
+}
+
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+li{
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    
+}
